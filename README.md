@@ -4,7 +4,7 @@ A WordPress plugin that adds a **“Community Discussions”** custom post type 
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Custom Post Type**: `community_discussion`
 - **AI Summary Meta Box**: Generate and save mock AI summaries per discussion
@@ -13,7 +13,7 @@ A WordPress plugin that adds a **“Community Discussions”** custom post type 
 
 ---
 
-## 📥 Installation
+## Installation
 
 1. **Upload the Plugin Folder**
 
@@ -26,7 +26,7 @@ A WordPress plugin that adds a **“Community Discussions”** custom post type 
 
 ---
 
-## 📝 Usage
+## Usage
 
 ### 1. Create a Discussion
 
