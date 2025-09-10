@@ -15,14 +15,14 @@ A WordPress plugin that adds a **“Community Discussions”** custom post type 
 
 ## 📥 Installation
 
-1. **Upload Plugin**
+1. **Upload the Plugin Folder**
 
-   - Download the ZIP and upload it via **Plugins > Add New > Upload Plugin**, then activate.
-   - Or unzip and upload the `ai-community-discussions` folder to `/wp-content/plugins/` manually.
+   - Copy the `ai-community-discussions` folder into `/wp-content/plugins/`.
 
-2. **Activate**
+2. **Activate the Plugin**
 
-   - Go to **Plugins > Installed Plugins** and activate _AI Community Discussions_.
+   - In your WordPress admin, go to **Plugins > Installed Plugins**.
+   - Activate _AI Community Discussions_.
 
 ---
 
@@ -43,8 +43,5 @@ A WordPress plugin that adds a **“Community Discussions”** custom post type 
 
 ### 3. Display the Summary
 
-- Use the shortcode anywhere in posts, pages, or Elementor: [ai_summary_shortcode]
-
-This will output only the saved summary for the current discussion.
-
----
+- Use the shortcode anywhere in posts, pages, or Elementor:
+  [ai_summary_shortcode]
