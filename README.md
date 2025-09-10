@@ -1,9 +1,3 @@
-Perfect 👍 That’s a clean **README** style explanation for your plugin.
-
-Here’s a slightly polished version to make it more structured and user-friendly (good for GitHub or WordPress.org):
-
----
-
 # AI Community Discussions
 
 A WordPress plugin that adds a **“Community Discussions”** custom post type with mock AI-generated summaries. Summaries are stored as post meta, configurable from an admin settings page, and can be displayed on the front-end (including in Elementor) via a shortcode.
