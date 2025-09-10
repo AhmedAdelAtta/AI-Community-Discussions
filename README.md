@@ -49,9 +49,7 @@ A WordPress plugin that adds a **“Community Discussions”** custom post type 
 
 ### 3. Display the Summary
 
-- Use the shortcode anywhere in posts, pages, or Elementor:
-
-[ai_summary_shortcode]
+- Use the shortcode anywhere in posts, pages, or Elementor: [ai_summary_shortcode]
 
 This will output only the saved summary for the current discussion.
 
