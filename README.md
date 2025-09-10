@@ -1,4 +1,4 @@
-# AI-Community-DiscussionsAI Community Discussions
+# AI-Community-Discussions
 
 A WordPress plugin that adds a "Community Discussions" custom post type with mock AI-generated summaries, stored as post meta and displayed on the front-end. It includes an admin settings page for summary length and integrates with Elementor via a shortcode.
 How to Use
