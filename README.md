@@ -1,27 +1,58 @@
-# AI-Community-Discussions
+Perfect 👍 That’s a clean **README** style explanation for your plugin.
 
-A WordPress plugin that adds a "Community Discussions" custom post type with mock AI-generated summaries, stored as post meta and displayed on the front-end. It includes an admin settings page for summary length and integrates with Elementor via a shortcode.
-How to Use
+Here’s a slightly polished version to make it more structured and user-friendly (good for GitHub or WordPress.org):
 
-Install and Activate:
+---
 
-Download the plugin ZIP and in WordPress, go to Plugins > Add New > Upload Plugin, upload the ZIP, and activate AI Community Discussions.
-Or, unzip and upload the ai-community-discussions folder to /wp-content/plugins/ via FTP, then activate.
+# AI Community Discussions
 
-Create a Discussion:
+A WordPress plugin that adds a **“Community Discussions”** custom post type with mock AI-generated summaries. Summaries are stored as post meta, configurable from an admin settings page, and can be displayed on the front-end (including in Elementor) via a shortcode.
 
-Go to Discussions > Add New in the WordPress admin.
-Add a title and content.
-In the AI Summary meta box (right sidebar), click Generate AI Summary to create a mock summary.
-Save or publish the post.
+---
 
-Configure Summary Length:
+## 🚀 Features
 
-Go to Settings > AI Discussions.
-Set Summary Length (words) (50–500, default: 100).
-Save changes.
+- **Custom Post Type**: `community_discussion`
+- **AI Summary Meta Box**: Generate and save mock AI summaries per discussion
+- **Admin Settings Page**: Control summary length (50–500 words, default: 100)
+- **Elementor Integration**: Display summaries anywhere with a shortcode
 
-Display Summary:
+---
 
-View the post (e.g., yoursite.com/community-discussions/your-post). The summary appears below the content.
-In Elementor insert [ai_summary_shortcode] in your Elementor page or post to display a summary.
+## 📥 Installation
+
+1. **Upload Plugin**
+
+   - Download the ZIP and upload it via **Plugins > Add New > Upload Plugin**, then activate.
+   - Or unzip and upload the `ai-community-discussions` folder to `/wp-content/plugins/` manually.
+
+2. **Activate**
+
+   - Go to **Plugins > Installed Plugins** and activate _AI Community Discussions_.
+
+---
+
+## 📝 Usage
+
+### 1. Create a Discussion
+
+- Navigate to **Discussions > Add New**.
+- Enter a title and content.
+- In the **AI Summary** meta box (right sidebar), click **Generate AI Summary**.
+- Save or publish the post.
+
+### 2. Configure Summary Settings
+
+- Go to **Settings > AI Discussions**.
+- Adjust **Summary Length (words)**.
+- Save changes.
+
+### 3. Display the Summary
+
+- Use the shortcode anywhere in posts, pages, or Elementor:
+
+[ai_summary_shortcode]
+
+This will output only the saved summary for the current discussion.
+
+---
